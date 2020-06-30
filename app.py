@@ -10,7 +10,7 @@ def hello():
 
 @app.route('/<name>')
 def hello_name(name):
-    return 'Hello, {}!'.format(name)
+    return 'ЧЕ ТЕБЕ НАДО, {} ПИДОРАС!'.format(name)
 
 
 if __name__ == '__main__':

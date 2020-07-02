@@ -1,2 +1,2 @@
 ##### Word-Sequency Application
-###### Technologies: Flask
+###### Technologies: Flask, PostgreSQL, SQLAlchemy, BeautifulSoup
